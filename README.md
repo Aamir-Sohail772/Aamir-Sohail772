@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![logo]()
 
 <h1 align="center">Hi 👋, I'm Aamir Sohail</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
