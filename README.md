@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **aamirsohail772@gmail.com and www.linkedin.com/in/iamaamirsohail**
 
-- 📄 Know about my experiences [https://aamir-sohail772.github.io/Resume_P and https://my.newtonschool.co/user/aamirsohail772/roject/](https://aamir-sohail772.github.io/Resume_P and https://my.newtonschool.co/user/aamirsohail772/roject/)
+- 📄 Know about my experiences [https://aamir-sohail772.github.io/Resume_Project and https://my.newtonschool.co/user/aamirsohail772/roject/](https://aamir-sohail772.github.io/Resume_Project and https://my.newtonschool.co/user/aamirsohail772/roject/)
 
 - ⚡ Fun fact **I am Funny**
 
