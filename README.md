@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![logo]()
+![logo](https://github.com/Aamir-Sohail772/Aamir-Sohail772/blob/main/Screenshot%20(14).png)
 
 <h1 align="center">Hi 👋, I'm Aamir Sohail</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
