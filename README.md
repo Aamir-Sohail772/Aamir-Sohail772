@@ -4,7 +4,7 @@
 **Aamir-Sohail772/Aamir-Sohail772** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<!-- 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 ![logo](https://github.com/Aamir-Sohail772/Aamir-Sohail772/blob/main/Screenshot%20(14).png)
 
 <h1 align="center">Hi 👋, I'm Aamir Sohail</h1>
@@ -86,4 +85,4 @@ I'm currently learning Full Stack Web Development
 ---
 [![](https://visitcount.itsvg.in/api?id=Aamir-Sohail772 &icon=2&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly created with GPRM ( https://gprm.itsvg.in )
